@@ -1,4 +1,4 @@
 # arm_exercices
-some exercices to play around arm
+Some exercices to play around with arm
 
-Nothing intersting there, just some exercices to play with arm
+Nothing interesting here, just some exercices to play with arm
